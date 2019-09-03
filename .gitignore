@@ -3,5 +3,5 @@
 *.iml
 *.ipr
 *.iws
-*.mvn/
-*.target/
+.mvn/
+target/
